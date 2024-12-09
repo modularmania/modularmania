@@ -1,4 +1,9 @@
-## Hi there 👋
+## hello.
+
+i've yet to make a README for this page, so i'll outline some data here.
+
+my name is meir herzlich. i am male and use he/they pronouns.
+i am a freshman at my university, studying cybersecurity.
 
 <!--
 **modularmania/modularmania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
