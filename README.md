@@ -42,8 +42,7 @@
       "goals": {
         "getting into KU's autodrive competition!",
         "getting through calculus...",
-        "seeing my boyfriend <3",
-        "finishing my rank (Senior Airman) in the 656th",
+        "seeing my boyfriend soon!!!!!!!!!!!!",
         "getting better at markup + styling languages!"
         }
     }
