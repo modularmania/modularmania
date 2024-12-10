@@ -11,7 +11,7 @@
 
       "occupation": {
         "Software + WebApp Developer",
-        "Freshman @ KU"
+        "Freshman @ Kettering University"
         },
   
       "spokenlang": {
