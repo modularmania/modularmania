@@ -10,41 +10,41 @@
       "pronouns":"he/they",
 
       "occupation": {
-        "Software + WebApp Developer",
-        "Freshman @ Kettering University"
+        "job":"Software + WebApp Developer",
+        "study":"Freshman @ Kettering University"
         },
   
-      "spokenlang": {
+      "spokenlang": [
         "English",
         "Toki Pona"
-        },
+        ],
   
-      "codinglang": {
+      "codinglang": [
         "Java",
         "JavaScript",
         "Python"
-        },
+        ],
   
-      "weblang": {
+      "weblang": [
         "XML",
         "JSP",
         "JSON",
         "CSS",
         "SCSS",
-        },
+        ],
 
-      "interests": {
+      "interests": [
         "technology",
         "linguistics",
         "militaries"
-        },
+        ],
 
-      "goals": {
+      "goals": [
         "getting into KU's autodrive competition!",
         "getting through calculus...",
         "seeing my boyfriend soon!!!!!!!!!!!!",
         "getting better at markup + styling languages!"
-        }
+        ]
     }
 
 ```
