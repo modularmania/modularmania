@@ -22,7 +22,8 @@
       "codinglang": [
         "Java",
         "JavaScript",
-        "Python"
+        "Python",
+        "COBOL"
         ],
   
       "weblang": [
