@@ -10,7 +10,7 @@
       "pronouns":"he/they",
 
       "occupation": {
-        "job":"Full-Stack Developer",
+        "job":"Junior Full-Stack Developer",
         "study":"Freshman @ Kettering University"
         },
   
