@@ -1,6 +1,3 @@
-
-#
-
 ``` json
 >>:~$ cat mherzlich.json  ▮
   
@@ -35,9 +32,9 @@
         ],
 
       "interests": [
-        "technology",
-        "linguistics",
-        "militaries"
+        "Technology",
+        "Linguistics",
+        "US military"
         ],
 
       "goals": [
