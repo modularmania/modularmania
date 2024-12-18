@@ -33,6 +33,8 @@
         "SCSS",
         ],
 
+      "dbms":"MariaDB",
+
       "interests": [
         "Technology",
         "Linguistics",
@@ -46,7 +48,8 @@
         "Hopefully seeing my S/O soon :-)",
         "Interning for Cybersec at Auto-Owners Insurance",
         "Learning more Linux",
-        "Understanding Regex"
+        "Understanding Regex",
+        "Studying Database theory"
         ]
     }
 
