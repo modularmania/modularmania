@@ -41,10 +41,14 @@
         ],
 
       "goals": [
-        "getting into KU's autodrive competition!",
-        "getting through calculus...",
-        "seeing my boyfriend soon!!!!!!!!!!!!",
-        "getting better at markup + styling languages!"
+        "Getting into KU's autodrive competition",
+        "Learning COBOL to a comfortable level",
+        "Improving my skills with Markup + Styling languages",
+        "Hopefully seeing my S/O soon :-)",
+        "Interning for Cybersec at Auto Owners Insurance",
+        "Learning more Linux",
+        "Understanding Regex",
+        "Graduating, haha"
         ]
     }
 
