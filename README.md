@@ -41,11 +41,11 @@
         ],
 
       "goals": [
-        "Getting into KU's autodrive competition",
+        "Getting into KU's AutoDrive competition",
         "Learning COBOL to a comfortable level",
         "Improving my skills with Markup + Styling languages",
         "Hopefully seeing my S/O soon :-)",
-        "Interning for Cybersec at Auto Owners Insurance",
+        "Interning for Cybersec at Auto-Owners Insurance",
         "Learning more Linux",
         "Understanding Regex",
         "Graduating, haha"
