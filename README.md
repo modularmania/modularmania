@@ -18,15 +18,15 @@
         "Toki Pona"
         ],
   
-      "codinglang": [
+      "backendlang": [
         "Java",
-        "JavaScript",
         "Python",
         "COBOL"
         ],
   
-      "weblang": [
+      "frontendlang": [
         "XML",
+        "JavaScript",
         "JSP",
         "JSON",
         "CSS",
