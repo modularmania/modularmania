@@ -38,7 +38,7 @@
       "interests": [
         "Technology",
         "Linguistics",
-        "US military"
+        "US Military"
         ],
 
       "goals": [
