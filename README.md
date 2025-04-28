@@ -1,7 +1,7 @@
 #
 
 ``` json
->>:~$ cat mherzlich.json  ▮
+>>:~$ cat u392.json  ▮
   
     {
       "name":"Meir Herzlich",
