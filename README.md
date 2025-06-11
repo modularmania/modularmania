@@ -42,10 +42,12 @@
         ],
 
       "goals": [
-        "Getting into KU's AutoDrive competition",
-        "Improving my skills with Markup + Styling languages",
-        "Interning for Cybersec at Auto-Owners Insurance",
-        "Studying Database theory"
+        "Finishing 656TH's Official Website",
+        "Studying Calculus",
+        "Studying for Certificiations",
+        "Learning C and Assembly",
+        "Finishing Google's IT Course",
+        "Studying Cybersecurity"
         ]
     }
 
