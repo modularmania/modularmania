@@ -37,7 +37,7 @@
 
       "interests": [
         "Technology",
-        "Linguistics",
+        "Video Games",
         "US Military"
         ],
 
