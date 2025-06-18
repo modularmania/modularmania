@@ -21,7 +21,8 @@
       "backendlang": [
         "Java",
         "Python",
-        "COBOL"
+        "C",
+        "C++"
         ],
   
       "frontendlang": [
@@ -45,7 +46,7 @@
         "Finishing 656TH's Official Website",
         "Studying Calculus",
         "Studying for Certificiations",
-        "Learning C and Assembly",
+        "Learning Assembly",
         "Finishing Google's IT Course",
         "Studying Cybersecurity"
         ]
