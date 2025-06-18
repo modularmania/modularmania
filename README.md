@@ -33,7 +33,7 @@
       "dbms": [
         "MariaDB",
         "MongoDB"
-        ]
+        ],
 
       "interests": [
         "Technology",
