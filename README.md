@@ -13,16 +13,12 @@
         "study":"Freshman @ Kettering University"
         },
   
-      "spokenlang": [
-        "English",
-        "Toki Pona"
-        ],
-  
       "backendlang": [
         "Java",
         "Python",
         "C",
-        "C++"
+        "C++",
+        "SQL"
         ],
   
       "frontendlang": [
@@ -31,10 +27,13 @@
         "JSP",
         "JSON",
         "CSS",
-        "SCSS",
+        "SCSS"
         ],
 
-      "dbms":"MariaDB",
+      "dbms": [
+        "MariaDB",
+        "MongoDB"
+        ]
 
       "interests": [
         "Technology",
