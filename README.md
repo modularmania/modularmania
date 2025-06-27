@@ -10,7 +10,7 @@
 
       "occupation": {
         "job":"Junior Full-Stack Developer",
-        "study":"Freshman @ Kettering University"
+        "study":"College Sophmore"
         },
   
       "backendlang": [
