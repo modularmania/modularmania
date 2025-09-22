@@ -1,6 +1,6 @@
 
 # Meir Herzlich, Technical Sergeant
-Hello there, my name is Meir. I am a Junior Full-Stack Developer and a Sophmore 1 in university.
+Hello there, my name is Meir. <br>I am a Junior Full-Stack Developer and a Sophmore 1 in university.
 
 > [!NOTE]
 > Although my page is used primarily on Pony Town, it is also my main Github.<br>
