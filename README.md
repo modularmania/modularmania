@@ -24,7 +24,7 @@ I hope to expand my reach in a casual setting soon, though.
 
 ## My Current Projects . .
 - [ ]  Adding "disconnect" feature to <a href=https://github.com/modularmania/PonyTownAutoClicker>Pony Town Auto Clicker</a>
-- [ ] Pony Town Auto Recruiter (Powershell and Python)
+- [x] Pony Town Auto Recruiter (Powershell and Python)
 
 ## My Current Goals . .
 - [ ] Finishing 656TH's Official Website
