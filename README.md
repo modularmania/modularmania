@@ -16,7 +16,7 @@ Hello there, my name is Meir H. <br>I am a Junior Full-Stack Developer and a Sop
 <details open>
 <summary><h2>Unnecessary Developer Stats . . </h2></summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modularmania&layout=compact&theme=holi)
+
 
 Most of the languages I know are solely used for my job at the moment.<br>
 I hope to expand my reach in a casual setting soon, though.
