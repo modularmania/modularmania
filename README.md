@@ -10,8 +10,8 @@ Hello there, my name is Meir H. <br>I am a Junior Full-Stack Developer and a Sop
 | ------------- | ------------- | ------------- |
 | XML | Java | MariaDB / MySQL
 | JS | Python | MongoDB
-| JSP | C |
-| JSON | C++ |
+| JSP | C, C++ |
+| JSON | Powershell |
 | CSS + SCSS | SQL | 
 <details open>
 <summary><h2>Unnecessary Developer Stats . . </h2></summary>
