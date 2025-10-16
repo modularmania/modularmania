@@ -4,7 +4,8 @@ Hello there, my name is Meir Herzlich. It's a pen name for privacy. <br>I am a J
 
 > [!NOTE]
 > Although my page is used primarily on Pony Town, it is also my main Github.<br>
-> I put any and all of my projects on this Github. (At least, the ones I *can*.)
+> I put any and all of my projects on this Github. (At least, the ones I *can*.) <br>
+> Currently trying to think of more things to make.
 
 | Frontend | Backend | DBMS
 | ------------- | ------------- | ------------- |
