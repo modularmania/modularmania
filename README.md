@@ -20,9 +20,6 @@ Hello there, my name is Meir H. <br>I am a Junior Full-Stack Developer and a Sop
 
 Most of the languages I know are solely used for my job at the moment.<br>
 I hope to expand my reach in a casual setting soon, though.
-
-
-![](https://komarev.com/ghpvc/?username=modularmania&color=grey&style=for-the-badge&label=VIEWS:&abbreviated=true)
 </details>
 
 ## My Current Projects . .
