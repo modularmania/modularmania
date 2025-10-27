@@ -10,7 +10,7 @@ Hello there, my name is Meir Herzlich. It's a pen name for privacy. <br>I am a J
 | Frontend | Backend | DBMS
 | ------------- | ------------- | ------------- |
 | XML | Java | MariaDB / MySQL
-| JS | Python | MongoDB
+| JavaScript | Python | MongoDB
 | JSP | C, C++ |
 | JSON | Powershell |
 | CSS, SCSS | SQL | 
