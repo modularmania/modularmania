@@ -19,7 +19,7 @@ Hello there, my name is Meir Herzlich. It's a pen name for privacy. <br>I am a J
   
 ![](https://komarev.com/ghpvc/?username=modularmania&color=grey&style=for-the-badge&label=VIEWS+:&abbreviated=true)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modularmania&layout=compact&theme=holi)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=modularmania&layout=compact&theme=holi)
 
 Most of the languages I know are solely used for my job at the moment.<br>
 I hope to expand my reach in a casual setting soon, though.
