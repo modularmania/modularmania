@@ -11,9 +11,10 @@ Hello there, my name is Meir Herzlich. It's a pen name for privacy. <br>I am a J
 | ------------- | ------------- | ------------- |
 | XML | Java | MariaDB / MySQL
 | JavaScript | Python | MongoDB
-| JSP | C, C++ |
+| JSP | C, C++ | PostgreSQL
 | JSON | Powershell |
 | CSS, SCSS | SQL | 
+|       | C# |
 <details open>
 <summary><h2>Unnecessary Developer Stats . . </h2></summary>
   
