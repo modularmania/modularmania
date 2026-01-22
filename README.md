@@ -1,6 +1,6 @@
 
 # Meir Herzlich, Technical Sergeant
-Hello there, my name is Meir Herzlich. It's a pen name for privacy. <br>I am a Junior Full-Stack Developer and a Sophmore 1 in university, looking to pursue Cybersecurity.<br>
+Hello there, my name is Meir Herzlich. It's a pen name for privacy. <br>I am a Junior Full-Stack Developer and a Sophmore 2 in university, looking to pursue Cybersecurity.<br>
 
 > [!NOTE]
 > Although my page is used primarily on Pony Town, it is also my main Github.<br>
